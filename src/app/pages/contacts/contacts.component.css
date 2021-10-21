@@ -1,0 +1,43 @@
+mat-card{
+    width: 500px;
+    height: 200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+    
+    
+  }
+  mat-card{
+    width: 500px;
+    height: 200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 10px;
+    
+    
+  }
+    
+    .app-header-image {
+      background-image: url('/assets/img/id.jpg');
+      background-size: cover;
+    }
+    .app-header-image1 {
+        background-image: url('/assets/img/sotto.jpg');
+        background-size: cover;
+      }
+      .app-header-image2 {
+        background-image: url('/assets/img/angelo.jpg');
+        background-size: cover;
+      }
+      .app-header-image3 {
+        background-image: url('/assets/img/salceda.jpg');
+        background-size: cover;
+      }
+      .app-header-image4 {
+        background-image: url('/assets/img/sales.jpg');
+        background-size: cover;
+      }
+
+
